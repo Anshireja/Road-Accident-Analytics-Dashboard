@@ -45,8 +45,9 @@ Commit your changes.
 
 Push the branch and open a Pull Request.
 
-🙏 Acknowledgments
+Project Visualization 
+![Dashboard Preview](screenshot.png)
+![Dashboard Preview](screenshot.png)
 
-Data Source: [Insert your dataset/source here]
 
 Thanks to the Excel community and contributors for inspiration and support.
