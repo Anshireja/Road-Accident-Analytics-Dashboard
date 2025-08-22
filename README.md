@@ -46,7 +46,7 @@ Commit your changes.
 Push the branch and open a Pull Request.
 
 Project Visualization 
-![Dashboard Preview]([screenshot.png](https://github.com/Anshireja/Road-Accident-Analytics-Dashboard/blob/main/Screenshot%202025-08-22%20165102.png))
+![Dashboard Preview](https://github.com/Anshireja/Road-Accident-Analytics-Dashboard/blob/main/Screenshot%202025-08-22%20165102.png)
 ![Dashboard Preview](screenshot.png)
 
 
