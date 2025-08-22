@@ -1,5 +1,8 @@
 🚦 Road Accident Analytics Dashboard
 
+![Dashboard Preview](https://github.com/Anshireja/Road-Accident-Analytics-Dashboard/blob/main/Screenshot%202025-08-22%20165102.png)
+![Dashboard Preview](https://github.com/Anshireja/Road-Accident-Analytics-Dashboard/blob/main/Screenshot%202025-08-22%20165137.png)
+
 📌 Overview
 
 The Road Accident Excel Dashboard is an interactive data visualization project built in Microsoft Excel.
@@ -42,12 +45,8 @@ Contributions are welcome! To contribute:
 Fork this repository.
 Create a new branch (feature-branch-name).
 Commit your changes.
-
 Push the branch and open a Pull Request.
 
-Project Visualization 
-![Dashboard Preview](https://github.com/Anshireja/Road-Accident-Analytics-Dashboard/blob/main/Screenshot%202025-08-22%20165102.png)
-![Dashboard Preview](screenshot.png)
 
 
 Thanks to the Excel community and contributors for inspiration and support.
