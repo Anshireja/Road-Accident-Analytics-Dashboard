@@ -1,5 +1,5 @@
 🚦 Road Accident Analytics Dashboard
-🔗 [View Live Excel Dashboard (OneDrive)](https://1drv.ms/x/c/01b41d4ef918828a/EcgVkcInI85NuAur058ONwwB_jVM3nlKBKjvzul3dO40fw?e=qEIT8O)
+🔗 [View Live Excel Dashboard (OneDrive)](https://anshireja.github.io/Road-Accident-Analytics-Dashboard/)
 
 ![Dashboard Preview](https://github.com/Anshireja/Road-Accident-Analytics-Dashboard/blob/main/Screenshot%202025-08-22%20165102.png)
 ![Dashboard Preview](https://github.com/Anshireja/Road-Accident-Analytics-Dashboard/blob/main/Screenshot%202025-08-22%20165137.png)
